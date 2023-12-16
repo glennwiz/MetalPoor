@@ -2,6 +2,8 @@
 
 In the early stages of a universe, technology and the very nature of life and civilization differ significantly from what we are familiar with in our metal-rich "old??" universe. Here are some speculative ideas:
 
+![Alt text](image-1.png)
+
 - **Biological Technology:** Life forms in this universe heavily rely on bioengineering and genetic manipulation for adaptation and survival. Organic-based technology is prevalent, with organisms serving as the foundation for advanced systems.
 
 - **Gravitational Tech:** In the absence of abundant metals, civilizations harness the power of gravity for communication and energy generation, potentially utilizing gravitons or other exotic particles.
