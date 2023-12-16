@@ -1,6 +1,6 @@
 ## Metal-Poor Universe
 
-In the early stages of a metal-poor universe, technology and the very nature of life and civilization differ significantly from what we are familiar with in our metal-rich universe. Here are some speculative ideas:
+In the early stages of a universe, technology and the very nature of life and civilization differ significantly from what we are familiar with in our metal-rich "old??" universe. Here are some speculative ideas:
 
 - **Biological Technology:** Life forms in this universe heavily rely on bioengineering and genetic manipulation for adaptation and survival. Organic-based technology is prevalent, with organisms serving as the foundation for advanced systems.
 
